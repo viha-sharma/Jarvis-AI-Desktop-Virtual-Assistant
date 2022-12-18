@@ -53,8 +53,8 @@ Jarvis is capable of performing 50+ automation tasks. Some of these tasks are li
 
 ## API Keys required:
 
-1. Wolframalpha
-2. Newsapi
+1. WolframAlpha: https://www.wolframalpha.com/
+2. NewsAPI: https://newsapi.org/
 
 ## **Tools Used**
 
