@@ -35,7 +35,7 @@ Jarvis is capable of performing 50+ automation tasks. Some of these tasks are li
 19. Performing arithmetic calculations
 20. Automating youtube actions
 21. Telling you random programming jokes
-22. Currency conversion
+22. Currency conversion (INR, USD, CAD, EUR, CNY, DKK)
 23. Flip a coin 
 24. Roll a dice
 25. Teaching you something new - using RandomHowTo function from WikiHow library
