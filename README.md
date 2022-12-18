@@ -1,2 +1,11 @@
-# Jarvis-AI-Desktop-Virtual-Assistant
-This virtual assistant can perform 50+ actions that will help automate multiple tasks for users to increase productivity and efficiency. 
+# Jarvis AI Desktop Virtual Assistant
+
+
+
+
+**Why are virtual assistants required?**
+
+**What all can Jarvis do?**
+
+Jarvis is capable of performing 50+ automation tasks. These tasks are listed below:
+
