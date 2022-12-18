@@ -39,8 +39,8 @@ Jarvis is capable of performing 50+ automation tasks. Some of these tasks are li
 23. Performing arithmetic calculations
 24. Telling you random programming jokes
 25. Currency conversion (INR, USD, CAD, EUR, CNY, DKK)
-26. Flip a coin 
-27. Roll a dice
+26. Flipping a coin 
+27. Rolling a dice
 28. Teaching you something new - using RandomHowTo function from WikiHow library
 29. Remembering your name and changing your name as well
 30. Jarvis can rap Eminem's Rap God (explicit version)
