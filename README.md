@@ -27,7 +27,7 @@ Jarvis is capable of performing 50+ automation tasks. Some of these tasks are li
 11. Telling you todays news
 12. Dictionary word meanings
 13. Converting speech to text for taking notes and saves it in the database
-14. Synonyms of words - thesaurus
+14. Thesaurus - Synonyms
 15. Automating reminders and saving them in the database
 16. Telling you your current reminders as well as clearing all reminders
 17. Spelling of words
