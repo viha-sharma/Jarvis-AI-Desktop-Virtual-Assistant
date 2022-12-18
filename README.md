@@ -19,35 +19,37 @@ Jarvis is capable of performing 50+ automation tasks. Some of these tasks are li
 3. Accessing the desktop webcam
 4. Google search
 5. Youtube search
-6. Automating Windows
-7. Automating Google Chrome
-8. Performing arithmetic calculations
-9. Reading a PDF to you
-10. Telling you todays news
-11. Dictionary word meanings
-12. Synonyms of words - thesaurus
-13. Automating your reminders 
-14. Spelling of a word
-15. Telling you today's schedule
-16. Taking screenshots and saving to the database
-17. Creating personalised qr codes for url links
-18. Automating online shopping for sites like amazon and myntra
-19. Performing arithmetic calculations
-20. Automating youtube actions
-21. Telling you random programming jokes
-22. Currency conversion (INR, USD, CAD, EUR, CNY, DKK)
-23. Flip a coin 
-24. Roll a dice
-25. Teaching you something new - using RandomHowTo function from WikiHow library
-26. Remembering your name and changing your name as well
-27. Jarvis can rap Eminem's Rap God (explicit version)
-28. Converting a youtube video to mp3 file format and saving it in the database
-29. Quick 'finger on your lips' command will make jarvis silently quit
-30. Playing any song on youtube
-31. Telling you the distance between any city and your location
-32. Determining your location based on ip address
-33. Telling you the temperature of any place in the world.
-34. Telling you the current time
+6. Automating Windows functionalities - minimize all windows, open settings, open windows search, restore, etc.
+7. Automating Google Chrome functionalities - new tab, close tab, history, downloads, making bookmarks, switching tabs, incognito mode, etc.
+8. Automating Youtube functionalities - pause, resume, full screen, film screen, increase/decrease playback speed, etc
+9. Performing arithmetic calculations
+10. Extracting the text from a PDF & reading it out to you
+11. Telling you todays news
+12. Dictionary word meanings
+13. Converting speech to text for taking notes and saves it in the database
+14. Synonyms of words - thesaurus
+15. Automating reminders and saving them in the database
+16. Telling you your current reminders as well as clearing all reminders
+17. Spelling of words
+18. Telling you today's schedule
+19. Telling you the distance between any city and your location
+20. Taking screenshots and saving to the database
+21. Creating personalised qr codes for url links
+22. Automating online shopping for sites like amazon and myntra
+23. Performing arithmetic calculations
+24. Telling you random programming jokes
+25. Currency conversion (INR, USD, CAD, EUR, CNY, DKK)
+26. Flip a coin 
+27. Roll a dice
+28. Teaching you something new - using RandomHowTo function from WikiHow library
+29. Remembering your name and changing your name as well
+30. Jarvis can rap Eminem's Rap God (explicit version)
+31. Converting a youtube video to mp3 file format and saving it in the database
+32. Quick 'finger on your lips' command will make jarvis silently quit
+33. Playing any song on youtube
+34. Determining your location based on ip address
+35. Telling you the temperature of any place in the world.
+36. Telling you the current time
 
 ## API Keys required:
 
@@ -61,6 +63,3 @@ Jarvis is capable of performing 50+ automation tasks. Some of these tasks are li
 ## Folder organisation
 
 <img width="247" alt="image" src="https://user-images.githubusercontent.com/106082126/208313476-f8c13304-344a-4743-ac9a-9144fd909347.png">
-
-
-
