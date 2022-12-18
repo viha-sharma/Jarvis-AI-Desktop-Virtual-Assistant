@@ -4,13 +4,19 @@ An ***AI virtual assistant***, also called AI assistant or digital assistant, is
 
 It is an application that understands voice commands and completes tasks for a user. Virtual assistants are available on most smartphones and tablets, traditional computers, and even standalone devices like the Amazon Echo and Google Home. Leading tech-giants have all launched products that support voice technology. Some examples include Google’s Assistant, Amazon’s Alexa, Microsoft’s Cortana, and, of course, Apple’s Siri.
 
-They combine specialized computer chips, microphones, and software that listen for specific spoken commands from you and can answer back in a voice that you select.
+My virtual assistant has been built entirely using Python.
 
-## **The benefits of a virtual assistant**
+## **Benefits of a Desktop Virtual Assistant**
 
-The power of digital assistants will only grow, and it's inevitable that you'll use one of these assistants sooner or later (if you haven't already). Amazon Echo and Google Home are the main choices in smart speakers, though we expect to see models from other brands down the road.
+The power of digital assistants will only grow in the future, and it's inevitable that you'll use one of these assistants sooner or later. They have various benefits:
 
-## **What all can Jarvis do?**
+- Reduced manual effort spent in executing minor tasks
+- Increased productivity
+- Information on your fingertips
+- Improved work quality
+- More organised online experience
+
+## **Jarvis Features**
 
 Jarvis is capable of performing 50+ automation tasks. Some of these tasks are listed below:
 
